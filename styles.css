@@ -7,7 +7,6 @@ body {
 
 header {
     padding: 2.3em;
-    text-align: center;
     display: flex;
     justify-content: space-around;
 }
