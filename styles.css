@@ -70,6 +70,10 @@ article h2 {
     text-align: center;
 }
 
+article p{
+    text-align: center;
+}
+
 .reseñas {
     background-color: #f7f7f7;
     padding: 2em;
