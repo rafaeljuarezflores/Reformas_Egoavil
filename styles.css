@@ -61,12 +61,11 @@ article {
     padding: 4em;
     display: flex;
     align-item: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 article h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: xxx-large;
     margin: 4em;
 }
 
