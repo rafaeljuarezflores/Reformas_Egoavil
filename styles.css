@@ -60,7 +60,7 @@ header nav a {
 article {
     padding: 4em;
     display: flex;
-    align-item: center;
+    align-items: center;
     justify-content: center;
 }
 
