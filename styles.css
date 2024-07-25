@@ -58,7 +58,7 @@ header nav a {
 }
 
 article {
-    padding: 1em 5em;
+    padding: 2em 5em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +78,7 @@ article p{
 }
 
 .reseñas {
-    background-color: #f7f7f7;
+    background-color: #B7BFC5;
     padding: 2em;
 }
 
