@@ -94,7 +94,8 @@ article p{
 }
 
 .reseña p {
-    font-size: 18px;
+    font-size: medium;
+    padding: 4em;
 }
 
 .contacto {
