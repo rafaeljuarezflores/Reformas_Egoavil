@@ -58,7 +58,7 @@ header nav a {
 }
 
 article {
-    padding: 6em;
+    padding: 1em 5em;
     display: flex;
     align-items: center;
     justify-content: center;
