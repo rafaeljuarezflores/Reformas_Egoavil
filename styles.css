@@ -77,8 +77,14 @@ article p{
     margin: 0 1em
 }
 
-.reseñas {
+main{
     background-color: #B7BFC5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reseñas {
     padding: 2em;
 }
 
