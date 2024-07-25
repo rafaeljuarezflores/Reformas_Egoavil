@@ -73,6 +73,7 @@ article h2 {
 article p{
     justify-content: center;
     text-align: justify;
+    margin: 0 4em
 }
 
 .reseñas {
