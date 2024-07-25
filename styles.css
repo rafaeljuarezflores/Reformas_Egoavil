@@ -61,6 +61,7 @@ article {
     padding: 2em;
     display: flex;
     align-item: center;
+    justify-content: space-between;
 }
 
 article h2 {
