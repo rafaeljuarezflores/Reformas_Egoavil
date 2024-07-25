@@ -59,6 +59,8 @@ header nav a {
 
 article {
     padding: 2em;
+    display: flex;
+    align-item: center;
 }
 
 article h2 {
