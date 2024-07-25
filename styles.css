@@ -49,6 +49,10 @@ header nav a {
     font-size: 18px;
 }
 
+.hero img{
+    padding: 0 0 3em 0;
+}
+
 article {
     padding: 2em;
 }
