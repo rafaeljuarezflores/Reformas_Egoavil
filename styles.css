@@ -9,6 +9,7 @@ header {
     padding: 2.3em;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 header nav ul {
