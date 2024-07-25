@@ -36,6 +36,10 @@ header nav a {
     padding: 3em;
 }
 
+.info{
+    margin: 1em;
+}
+
 .hero h1 {
     font-size: 36px;
 }
