@@ -101,6 +101,12 @@ main .n_services{
     display: inline-grid;
     grid-template-columns: auto auto;
 }
+
+main .n_services div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
     
 .reseñas {
     padding: 2em;
