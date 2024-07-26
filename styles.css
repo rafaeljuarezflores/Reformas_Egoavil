@@ -106,11 +106,9 @@ main .n_services div{
     position: relative;
     text-align: center;
     color: white;
-    background-color: #7d7d7d;
 }
 
 main .n_services div img{
-    opacity: 0.3;
 }
 
 main .n_services div p{
@@ -118,6 +116,7 @@ main .n_services div p{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: #060001;
 }
     
 .reseñas {
