@@ -106,6 +106,7 @@ main .n_services div{
     position: relative;
     text-align: center;
     color: white;
+    background: red;
 }
 
 main .n_services div img{
