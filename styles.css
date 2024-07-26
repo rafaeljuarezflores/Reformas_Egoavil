@@ -107,6 +107,13 @@ main .n_services div{
     text-align: center;
     color: white;
 }
+
+main .n_services div p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
     
 .reseñas {
     padding: 2em;
