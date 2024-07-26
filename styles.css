@@ -85,6 +85,18 @@ main{
     padding: 2em;
 }
 
+main .main_txt{
+    padding: 2em;
+}
+
+main .main_txt h1{
+    font-size: large;
+}
+
+main .main_txt p{
+    
+}
+
 main .n_services{
     display: inline-grid;
     grid-template-columns: auto auto;
