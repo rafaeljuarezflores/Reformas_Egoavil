@@ -109,6 +109,10 @@ main .n_services div{
     background-color: #7d7d7d;
 }
 
+main .n_services div img{
+    opacity: 0.3;
+}
+
 main .n_services div p{
     position: absolute;
     top: 50%;
