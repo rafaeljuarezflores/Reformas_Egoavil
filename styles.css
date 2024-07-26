@@ -85,6 +85,11 @@ main{
     padding: 2em;
 }
 
+main .n_services{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+}
+    
 .reseñas {
     padding: 2em;
 }
